@@ -18,6 +18,7 @@
   - [Models Used](#models-used)
   - [Model Comparison](#model-comparison)
 - [Conclusion](#conclusion)
+- [Acknowledgments](#Acknowledgments)
 - [References](#references)
 
 ---
