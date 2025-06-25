@@ -17,9 +17,6 @@
 - [Modeling and Evaluation](#modeling-and-evaluation)
   - [Models Used](#models-used)
   - [Model Comparison](#model-comparison)
-  - [ROC Curves](#roc-curves)
-  - [Cross-Validation Accuracy](#cross-validation-accuracy)
-  - [Confusion Matrix](#confusion-matrix)
 - [Conclusion](#conclusion)
 - [References](#references)
 
@@ -134,11 +131,17 @@ Model performance was evaluated using multiple metrics:
 
 ---
 
+
+## Acknowledgments
+I would like to acknowledge **Eda AYDIN** for her original breast cancer classification implementation that served as the foundation for this project. Her initial code provided the essential framework for data preprocessing, model development, and visualization approaches. This work represents an enhanced and expanded version of her original contribution, incorporating additional models, comprehensive evaluation metrics, and detailed documentation.
+
+---
+
 ## References
 
-1. UCI Machine Learning Repository: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
-2. Scikit-learn Documentation: https://scikit-learn.org
-3. XGBoost Documentation: https://xgboost.readthedocs.io
-4. Seaborn Library: https://seaborn.pydata.org
+1. UCI Machine Learning Repository: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
+2. Scikit-learn Documentation: https://scikit-learn.org.
+3. XGBoost Documentation: https://xgboost.readthedocs.io.
+4. Seaborn Library: https://seaborn.pydata.org.
 
 
