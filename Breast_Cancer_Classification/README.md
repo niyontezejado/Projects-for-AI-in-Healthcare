@@ -44,11 +44,19 @@ The dataset used is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which 
 ### Pair Plots
 
 The pair plots show relationships among selected features:
-![pairplot_features_only](https://github.com/user-attachments/assets/205c0ea0-0759-46c1-8eff-b99c8de49701)
-*Figure 1: Pairwise relationships between selected features.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/205c0ea0-0759-46c1-8eff-b99c8de49701" alt="pairplot_features_only" width="600"/>
+  <br>
+  <em>Figure 1: Pairwise relationships between selected features.</em>
+</p>
 
-![pairplot_with_target](https://github.com/user-attachments/assets/3f75f700-d111-4060-89b8-d55c948b24a2)
-*Figure 2: Pairwise feature relationships colored by target.*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f75f700-d111-4060-89b8-d55c948b24a2" alt="pairplot_with_target" width="600"/>
+  <br>
+  <em>Figure 2: Pairwise feature relationships colored by target.</em>
+</p>
+
 
 
 ---
@@ -57,9 +65,12 @@ The pair plots show relationships among selected features:
 
 The class distribution of the target shows an imbalance favoring benign tumors:
 
-![class_distribution](https://github.com/user-attachments/assets/99a45680-d6e0-4186-9b69-08ba7771d680)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99a45680-d6e0-4186-9b69-08ba7771d680" alt="class_distribution" width="500"/>
+  <br>
+  <em>Figure 3: Distribution of target variable (0 = Malignant, 1 = Benign).</em>
+</p>
 
-*Figure 3: Distribution of target variable (0 = Malignant, 1 = Benign).*
 
 
 ---
@@ -68,8 +79,12 @@ The class distribution of the target shows an imbalance favoring benign tumors:
 
 Feature scatter plots (example: `mean area` vs. `mean smoothness`) show visible separation between classes:
 
-![mean_area_vs_smoothness](https://github.com/user-attachments/assets/263de794-3164-48bc-be77-22f9b3966641)
-*Figure 4: Mean Area vs Mean Smoothness colored by target.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/263de794-3164-48bc-be77-22f9b3966641" alt="mean_area_vs_smoothness" width="600"/>
+  <br>
+  <em>Figure 4: Mean Area vs Mean Smoothness colored by target.</em>
+</p>
+
 
 ---
 
@@ -77,8 +92,12 @@ Feature scatter plots (example: `mean area` vs. `mean smoothness`) show visible 
 
 Feature correlation helps identify redundancy and multicollinearity:
 
-![correlation_heatmap](https://github.com/user-attachments/assets/061d630e-08e4-426f-9a7c-c0764987a808)
-*Figure 5: Correlation heatmap of features.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/061d630e-08e4-426f-9a7c-c0764987a808" alt="correlation_heatmap" width="600"/>
+  <br>
+  <em>Figure 5: Correlation heatmap of features.</em>
+</p>
+
 
 ---
 
@@ -98,8 +117,12 @@ The following classification models were trained and tested:
 ### Model Comparison
 
 Model performance was evaluated using multiple metrics:
-![model_evaluation_results](https://github.com/user-attachments/assets/8a34e6ca-1855-42ac-99d4-68ed8a176593)
-*Figure 6: Accuracy, Precision, Recall, F1 Score, and ROC AUC for each model.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a34e6ca-1855-42ac-99d4-68ed8a176593" alt="model_evaluation_results" width="700"/>
+  <br>
+  <em>Figure 6: Accuracy, Precision, Recall, F1 Score, and ROC AUC for each model.</em>
+</p>
+
 
 ---
 
