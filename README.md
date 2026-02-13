@@ -22,6 +22,6 @@ This repository contains a collection of **applied AI and deep learning projects
 
 ## 🎯 Purpose
 
-The goal of this repository is to **bridge AI research and real-world healthcare applications**, showcasing practical implementations that can support clinical decision-making, medical research, and translational AI systems.
+The goal of this repository is to **bridge AI research and real-world healthcare applications**, showcasing practical implementations that can support clinical decision-making, medical research, and translational Artificial Intelligence systems.
 
 ---
