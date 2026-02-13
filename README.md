@@ -25,12 +25,3 @@ This repository contains a collection of **applied AI and deep learning projects
 The goal of this repository is to **bridge AI research and real-world healthcare applications**, showcasing practical implementations that can support clinical decision-making, medical research, and translational AI systems.
 
 ---
-
-If you want, I can:
-
-* tailor this README for **PhD / research applications**
-* add a **methods + datasets** section
-* optimize it for **GitHub recruiters and hiring managers**
-* split each subproject into its own polished README
-
-Just tell me 👍
