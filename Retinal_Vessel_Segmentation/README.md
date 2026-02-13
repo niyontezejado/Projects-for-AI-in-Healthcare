@@ -1,4 +1,4 @@
-# Experimental Evaluation of Public Retinal Vessel Segmentation Datasets (2020–2025) with Deep Learning: An Empirical Study
+# Experimental Assessment of Public Retinal Vessel Segmentation Datasets (2020–2025) with Deep Learning
 
 ## Authors
 
