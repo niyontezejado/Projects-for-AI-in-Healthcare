@@ -105,5 +105,6 @@ We adopt **U-Net++** for retinal vessel segmentation due to its strong ability t
 - **LES-AV:** Main vessels captured; minor deviations in low-contrast regions  
 
 ![CHASE-DB1 Segmentation](images/prediction.png "CHASE-DB1 Predicted vs GT") 
+
 *LES-AV and CHASE-DB1– Predicted vs Ground Truth*  
  
