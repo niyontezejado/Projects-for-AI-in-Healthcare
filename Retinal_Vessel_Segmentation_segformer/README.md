@@ -1,4 +1,4 @@
-# Deep Learning-Driven Retinal Vessel Segmentation Using a Transformer-Based Architecture: A Performance Evaluation
+# A Performance Evaluation of Deep Learning-Driven Retinal Vessel Segmentation Using a Transformer-Based Architecture
 
 ## Authors
 
