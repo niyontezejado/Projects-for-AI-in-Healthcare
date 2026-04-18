@@ -5,6 +5,8 @@
 > **Authors:** Jean De Dieu Niyonteze, Mandingwa Timothy
 >
 > **Date:** April 24, 2026
+>
+> **Real Time Inference Demo:** https://www.youtube.com/watch?v=YsaN1Dg6d68
 
 ---
 
