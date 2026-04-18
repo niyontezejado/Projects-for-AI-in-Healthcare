@@ -114,6 +114,17 @@ GlobalAveragePooling2D → Dense(128, ReLU) → Dropout(0.5) → Dense(4, Softma
 
 ## Setup
 
+### 0. Clone and Access the Project Repository
+
+Clone the repository
+```bash
+git clone https://github.com/niyontezejado/Projects-for-AI-in-Healthcare
+```
+Access the repository
+```bash
+cd Projects-for-AI-in-Healthcare\DL_Project
+```
+
 ### 1. Create the Conda Environment
 
 A ready-to-use environment file is provided. Run this once to create the environment:
@@ -122,35 +133,14 @@ A ready-to-use environment file is provided. Run this once to create the environ
 conda env create -f environment.yml
 ```
 
-This creates a conda environment named **`DeepLearning`** with all required dependencies:
+This creates a conda environment named **`DeepLearning`** with all required dependencies
 
-| Package | Version |
-|---|---|
-| Python | 3.10 |
-| TensorFlow | 2.20.0 |
-| NumPy | 2.2.6 |
-| Pandas | 2.2.3 |
-| Matplotlib | 3.10.1 |
-| Seaborn | 0.13.2 |
-| Scikit-learn | 1.6.1 |
-| Jupyter | latest |
+
 
 ### 2. Activate the Environment
 
 ```bash
 conda activate DeepLearning
-```
-
-### 3. Update the Environment (if needed)
-
-```bash
-conda env update -f environment.yml --prune
-```
-
-### 4. Remove the Environment (if needed)
-
-```bash
-conda env remove -n DeepLearning
 ```
 
 ---
