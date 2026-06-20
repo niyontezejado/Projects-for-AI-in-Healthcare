@@ -1,6 +1,6 @@
 # Brain Tumor Classification Using Transfer Learning
 
-> **Course:** Deep Learning and Reinforcement Learning — ISOM 678
+> **Course:** Deep Learning and Reinforcement Learning 
 >
 > **Authors:** Jean De Dieu Niyonteze, Mandingwa Timothy
 >
